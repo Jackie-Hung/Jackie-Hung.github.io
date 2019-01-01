@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+
+}
+.header{
+    height:60px;
+    weight:100%;
+}
+.sitename{
+    height: 60px;
+    weight:40%;
+}
